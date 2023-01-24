@@ -236,5 +236,33 @@ main{
 .currency-table--date p {
     font-size: 1.2rem;
     line-height: 1.5rem;
+    font-weight: 300;
     color: var(--Warm-Black);
+}
+
+.main-tables-container-Dos{
+    width: 90%;
+    min-width: 230px;
+    max-width: 300px;
+    height:310px;;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 75px;
+}
+
+.main-currency-table .currency-table-title-Dos{
+    margin-bottom: 15px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    line-height: 2.3rem;
+    color: var(--secondary-blue);
+}
+
+.product-detail--title {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: auto;
+    padding: 20px 10px;
+    background-color: var(--warm-black);
 }
