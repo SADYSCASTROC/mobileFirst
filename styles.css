@@ -255,7 +255,6 @@ main {
     min-width: 230px;
     max-width: 300px;
     height: 310px;
-    ;
     margin: 0 auto;
     padding: 5px;
     margin-top: 75px;
@@ -446,6 +445,7 @@ main {
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: proximity;
+    width: 100%;
 }
 
 .plans-container--card{
